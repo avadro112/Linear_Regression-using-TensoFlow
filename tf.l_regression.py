@@ -13,7 +13,7 @@ plt.plot(x,y)
 plt.xlabel("X")
 plt.ylabel("Regression")
 plt.show()
-dataset = pd.read_csv('https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/FuelConsumptionCo2.csv')
+dataset = pd.read_csv('file.csv')
 #print(dataset.head())
 
 x_train = np.asanyarray(dataset[['Cause']])
