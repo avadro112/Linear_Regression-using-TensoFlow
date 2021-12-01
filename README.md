@@ -1,6 +1,6 @@
 # Python
 this is code is so called regression because better it can be used for cost function analysis /gradients estimation/loss value using graphs(matplotlib)
-
+it is recomended use tensorlow in Deep Learning / Netural Network Algorithms
  contains only template for implementing a tensorflow regression model
  My machine learning is still under practice 
  out there might be better method/algorithms
